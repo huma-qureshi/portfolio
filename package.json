@@ -1,0 +1,14 @@
+{
+  "name": "huma-qureshi-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Huma Qureshi",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'No build required, this is a static site.' && exit 0"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
